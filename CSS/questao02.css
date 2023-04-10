@@ -1,0 +1,55 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+}
+
+.container {
+    width: 80%;
+    height: fit-content;
+    box-shadow: 5px 5px 10px gray;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Paragrafo com fonte familia Courier , tamanho larger , estilo normal e grossura 800 */
+.first {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: normal;
+    font-weight: 800;
+}
+
+/* Paragrafo com fonte familia Verdana , tamanho small , estilo Italico e grossura 200 */
+.second {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-style: italic;
+    font-weight: 200;
+}
+
+/* Paragrafo com fonte familia monospace, tamanho normal , estilo oblicuo e grossura 500 */
+.third {
+    text-align: center;
+    font-family: monospace;
+    font-size: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+
+/* Paragrafo com fonte familia Fantasy , tamanho X-small , estilo normal e grossura 400 */
+.fourth {
+    text-align: center;
+    font-family: fantasy;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: 400;
+}

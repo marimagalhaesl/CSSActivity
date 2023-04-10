@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+}
+
+section {
+    background-color: #C8C5C2;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 10px gray;
+}
+
+/* Primeiro parágrafo - 30px */
+.inalcanzable {
+    font-size: 30px;
+}
+
+/* Segundo parágrafo - large */
+.quiza {
+    font-size: large;
+}
+
+/* Terceiro parágrafo - medium */
+.extranasens {
+    font-size: medium;
+}
+
+/* Quarto parágrafo - small */
+.nuestroamor {
+    font-size: small;
+}
+
+/* Quinto paráfrafo - x-small */
+.algundia {
+    font-size: x-small;
+}
+
+/* Sexto parágrafo - xx-small */
+.rebelde {
+    font-size: xx-small;
+}
